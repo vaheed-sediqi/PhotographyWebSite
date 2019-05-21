@@ -76,7 +76,7 @@ main {
 #landing-text {
     display: flex;
     flex: 0 1 40vw;
-    height: 50vh;
+    height: 65vh;
     justify-content: center;  /**it justify from left to right to center**/
     align-items: center;  /**it justify from top to button**/
     text-align: center;
